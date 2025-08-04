@@ -157,3 +157,7 @@ The program has been designed to handle:
 3. Program compares to Hurkle location and provides hints
 4. Process repeats until player finds Hurkle or runs out of guesses
 5. Appropriate win/lose message displayed with game statistics
+
+## Video record
+https://drive.google.com/drive/folders/1vfPCpzXgzcwa3EjmBkDPojjXLTSsTgoq?usp=share_link
+
