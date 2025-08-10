@@ -1,7 +1,7 @@
 # Hurkle Game - README Documentation
 
 ## Student Information
-- **Full Name: Phoo Pwint Cho Thar
+- **Full Name:** Phoo Pwint Cho Thar
 - **Student ID:** 67011755
 - **Date of Submission:** January 8, 2025
 
