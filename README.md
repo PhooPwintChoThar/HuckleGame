@@ -1,8 +1,8 @@
 # Hurkle Game - README Documentation
 
 ## Student Information
-- **Full Name:** [Your Full Name]
-- **Student ID:** [Your Student ID]
+- **Full Name: Phoo Pwint Cho Thar
+- **Student ID:** 67011755
 - **Date of Submission:** January 8, 2025
 
 ## How to Compile and Run
